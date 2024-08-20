@@ -1,0 +1,3 @@
+useState ka throgh web page aik dafa render hota hain
+useEffect ka throgh multiple time rerander karwa sakta hy,
+when we use dependancy then depandancy will be change then uE will be run and  page will be rerander
