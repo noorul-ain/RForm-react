@@ -2,6 +2,8 @@
 
 
 This is a simple registration form built with React. It collects user data including their name, email, and password, and displays a success message upon successful registration.
+![f1](https://github.com/user-attachments/assets/fc8dafe4-3387-46ac-83c3-2d553fb18d96)
+
 
 ## Features
 
@@ -54,3 +56,5 @@ The `Form` component is the main component that renders the registration form.
 2. Open your browser and navigate to `http://localhost:3000` to view the form.
 
 3. Fill in the required fields and submit the form. If successful, a message will appear indicating that you have registered successfully.
+
+
